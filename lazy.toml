@@ -1,0 +1,12 @@
+[[plugins]]
+on_ft = 'toml'
+repo = 'cespare/vim-toml'
+
+[[plugins]]
+repo = 'tamago324/vim-gaming-line'
+
+[[plugins]]
+repo = 'w0rp/ale'
+
+[[plugins]]
+repo = 'airblade/vim-gitgutter'
